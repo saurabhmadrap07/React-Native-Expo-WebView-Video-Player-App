@@ -101,11 +101,12 @@ README.md
 ## 📲 Getting Started
 
 1. **Clone the repo**
-git clone https://github.com/saurabhmadrap07/House_of_Edtech_Assignment.git
-cd House_of_Edtech_Assignment
+git clone https://github.com/saurabhmadrap07/React-Native-Expo-WebView-Video-Player-App.git
+cd
+React-Native-Expo-WebView-Video-Player-App
 
 
-2. **Install dependencies**
+3. **Install dependencies**
 npm install
 
 or
